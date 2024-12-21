@@ -40,7 +40,7 @@ nav ul li a:hover {
 
 nav ul li ul {
     display: none;
-    position: absolute;
+    position: relative;
     background-color: #444;
     margin: 0;
     padding: 0;
